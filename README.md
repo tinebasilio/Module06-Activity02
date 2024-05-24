@@ -8,16 +8,20 @@
     <td><img src="Screenshots/2.png" width="300"/></td>
     <td><img src="Screenshots/3.png" width="300"/></td>
   </tr>
-  
+</table>
+
 ### Update Record
+<table>
   <tr>
     <td><img src="Screenshots/3.png" width="300"/></td>
     <td><img src="Screenshots/4.png" width="300"/></td>
     <td><img src="Screenshots/5.png" width="300"/></td>
     <td><img src="Screenshots/6.png" width="300"/></td>
   </tr>
+</table>
 
 ### Delete Record
+<table>
   <tr>
     <td><img src="Screenshots/6.png" width="300"/></td>
     <td><img src="Screenshots/7.png" width="300"/></td>
